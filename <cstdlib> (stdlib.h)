@@ -10,4 +10,4 @@ strtoll	Convert string to long long integer (function)
 strtoul	Convert string to unsigned long integer (function)
 strtoull	Convert string to unsigned long long integer (function)
 
-usage: atof(str)
+usage: atof(char[])
